@@ -1,223 +1,386 @@
 <!-- =========================================================
      PERFIL PROFESIONAL DE JOSÉ LUIS TAGUA ROCA
      GitHub: @clos12x
+     Software Engineer | Full Stack Developer | DevOps
 ========================================================== -->
 
-::: {align="center"}
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:1D4ED8,100:06B6D4&text=Jos%C3%A9%20Luis%20Tagua%20Roca&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps&descAlignY=60&descSize=18&animation=fadeIn">{=html}
 
-<br>{=html}
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Desarrollo+soluciones+de+software+con+impacto+real;Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL;Sistemas+empresariales+%7C+APIs+%7C+Arquitectura+Web;DevOps+%7C+Cloud+%7C+Automatizaci%C3%B3n">{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=250&section=header&text=José%20Luis%20Tagua%20Roca&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<br>{=html}<br>{=html}
 
-<a href="https://github.com/clos12x">{=html}
-<img src="https://img.shields.io/badge/GitHub-clos12x-181717?style=for-the-badge&logo=github">{=html}
-</a>{=html}
+# 👨‍💻 José Luis Tagua Roca
 
-<a href="https://www.linkedin.com/in/jose-luis-tagua-roca-3866a4332/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Luis%20Tagua-0A66C2?style=for-the-badge&logo=linkedin">{=html}
-</a>{=html}
 
-<a href="mailto:joseluistaguaroca22@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail">{=html}
-</a>{=html}
-:::
+### Software Engineer | Full Stack Developer | DevOps
 
-👨‍💻 Perfil Profesional
 
-Soy Ingeniero en Sistemas enfocado en el desarrollo de software,
-aplicaciones web y soluciones digitales orientadas a necesidades reales.
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Laravel+Developer;Full+Stack+Web+Developer;DevOps+%26+Cloud+Enthusiast;Building+Modern+Digital+Solutions"/>
 
-Mi enfoque está en construir sistemas completos:
 
-Desarrollo Full Stack.
+</div>
 
-Sistemas empresariales.
 
-Arquitectura de aplicaciones.
+---
 
-APIs REST.
+<!-- =========================================================
+     SOBRE MI PERFIL PROFESIONAL
+========================================================== -->
 
-Bases de datos.
 
-Automatización de procesos.
+# 🚀 Sobre mí
 
-Buenas prácticas de ingeniería.
 
-Tecnologías principales:
+Soy **Ingeniero de Sistemas** apasionado por el desarrollo de software, la arquitectura web y la creación de soluciones tecnológicas.
 
-🔥 Laravel
-🐘 PHP
-⚡ JavaScript
-🗄️ MySQL
-🎨 Blade
-🎨 Bootstrap
-🎨 Tailwind CSS
+
+Mi enfoque está orientado al desarrollo de aplicaciones modernas, sistemas empresariales y plataformas digitales escalables.
+
+
+Me interesa transformar problemas reales en soluciones eficientes mediante tecnología, buenas prácticas de programación y automatización.
+
 
 Actualmente fortaleciendo conocimientos en:
 
-🐳 Docker
-☸️ Kubernetes
-🏗️ Terraform
-🔄 CI/CD
-☁️ Azure
-☁️ AWS
 
-🚀 Proyecto Principal
+- 💻 Desarrollo Full Stack
+- 🔥 Laravel / PHP
+- 🌐 Aplicaciones Web Empresariales
+- ☁️ DevOps y Cloud Computing
+- 🐧 Administración Linux
+- 🐳 Docker
+- ⚙️ Automatización de procesos
 
-🐾 Sistema Veterinaria
 
-Plataforma integral que combina comercio electrónico y gestión
-veterinaria.
 
-Características principales:
+---
 
-🛒 Ecommerce de mascotas
+<!-- =========================================================
+     STACK TECNOLOGICO
+========================================================== -->
 
-Catálogo de productos.
 
-Gestión de productos.
+# 🛠️ Stack Tecnológico
 
-Compras online.
 
-Control de pedidos.
+<div align="center">
 
-Seguimiento de entregas.
 
-👨‍💼 Administración
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,tailwind,git,github,linux,docker,vscode&perline=6"/>
 
-Panel administrativo.
 
-Gestión de usuarios.
+</div>
 
-Roles y permisos personalizados.
 
-Control de accesos.
+## Backend
 
-🩺 Gestión veterinaria
+- PHP
+- Laravel
+- Arquitectura MVC
+- APIs REST
+- Composer
 
-Asignación de veterinarios.
 
-Atención presencial y virtual.
+## Frontend
 
-Gestión de servicios.
+- HTML5
+- CSS3
+- JavaScript
+- Blade
+- Tailwind CSS
 
-Seguimiento de clientes.
 
-📧 Comunicación
+## Base de Datos
 
-Notificaciones por correo.
+- MySQL
+- SQLite
+- Modelado relacional
+- Migraciones Laravel
 
-Estados de pedidos.
 
-Asignaciones veterinarias.
+## DevOps & Herramientas
 
-📊 Reportes
+- Linux
+- Docker
+- Git
+- GitHub
+- Visual Studio Code
 
-Ventas.
 
-Pedidos.
 
-Actividad administrativa.
+---
 
-🛠️ Stack Tecnológico
+<!-- =========================================================
+     PROYECTOS DESTACADOS
+========================================================== -->
 
-::: {align="center"}
-<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,bootstrap,tailwind,docker,git,github,linux,vscode">{=html}
-:::
 
-Área            Tecnologías
+# 🚀 Proyectos Destacados
 
-Backend         Laravel, PHP, C#, .NET, Java, Python
-Frontend        JavaScript, Angular, React, HTML5, CSS3
-Diseño          Bootstrap, Tailwind CSS, Blade
-Base de datos   MySQL, PostgreSQL, MongoDB
-DevOps          Docker, Kubernetes, Terraform, CI/CD
-Cloud           Azure, AWS
 
-📂 Proyectos Destacados
 
-💊 FarmaciaDevOps
+## 🐾 Sistema Veterinaria
 
-API REST para gestión de medicamentos aplicando prácticas DevOps.
+### Plataforma Integral de Gestión Veterinaria + Comercio Electrónico
 
-Incluye:
 
-C# y .NET.
+Sistema web empresarial desarrollado con **Laravel**, diseñado para administrar una clínica veterinaria moderna junto con funcionalidades comerciales para productos de mascotas.
 
-Swagger.
 
-Docker.
+El sistema integra diferentes módulos para mejorar la gestión administrativa, atención veterinaria y experiencia del cliente.
 
-Azure Pipelines.
 
-Automatización CI/CD.
+### 👑 Administración del Sistema
 
-🌸 Mamá Florita
-
-Aplicación web progresiva para recordatorios inteligentes.
 
 Incluye:
 
-Notificaciones.
 
-Programación automática.
+✅ Gestión completa de usuarios  
+✅ Creación de roles personalizados  
+✅ Administración de permisos  
+✅ Control de empleados y veterinarios  
+✅ Configuración general del sistema  
 
-Síntesis de voz.
 
-PWA.
+---
 
-☁️ Ruta DevOps
+### 🛒 Comercio Electrónico
 
-Código
-  ↓
-Git / GitHub
-  ↓
-CI/CD
-  ↓
-Docker
-  ↓
-Contenedores
-  ↓
-Kubernetes
-  ↓
-Cloud Azure / AWS
 
-📊 Estadísticas GitHub
+Funciones principales:
 
-::: {align="center"}
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=clos12x&show_icons=true&theme=transparent">{=html}
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clos12x&layout=compact&theme=transparent">{=html}
-:::
+✅ Catálogo de productos para mascotas  
+✅ Gestión de productos  
+✅ Control de compras  
+✅ Seguimiento de pedidos  
+✅ Estados de entrega  
+✅ Confirmaciones mediante correo electrónico  
 
-🎯 Objetivo Profesional
 
-Mi objetivo es continuar creciendo como desarrollador creando soluciones
-escalables, automatizando procesos y aplicando buenas prácticas de
-ingeniería de software.
+Flujo del pedido:
 
-Áreas de interés:
 
-🚀 Desarrollo de software
-⚙️ Automatización
-☁️ Cloud Computing
-🏗️ DevOps
+```
+Cliente realiza compra
 
-📬 Contacto
+        ↓
 
-::: {align="center"}
-<a href="mailto:joseluistaguaroca22@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail">{=html}
-</a>{=html}
+Empleado procesa pedido
 
-<a href="https://www.linkedin.com/in/jose-luis-tagua-roca-3866a4332/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">{=html}
-</a>{=html}
-:::
+        ↓
 
-::: {align="center"}
-⭐ Gracias por visitar mi perfil.
-:::
+Pedido enviado
+
+        ↓
+
+Entrega completada
+```
+
+
+
+---
+
+### 👨‍⚕️ Módulo Veterinario
+
+
+Permite:
+
+
+✅ Asignación de veterinarios  
+✅ Notificaciones de nuevas atenciones  
+✅ Gestión de clientes asignados  
+✅ Atención presencial o virtual  
+✅ Registro de servicios veterinarios  
+
+
+---
+
+### 👨‍💼 Módulo Empleado
+
+
+Funciones:
+
+
+✅ Gestión de productos  
+✅ Administración de pedidos  
+✅ Control de ventas  
+✅ Seguimiento de entregas  
+
+
+---
+
+### 📊 Reportes y Gestión
+
+
+Incluye:
+
+
+✅ Reportes administrativos  
+✅ Control de información  
+✅ Organización empresarial  
+✅ Datos preparados para toma de decisiones
+
+
+
+---
+
+<!-- =========================================================
+     ARQUITECTURA
+========================================================== -->
+
+
+# 🏗️ Arquitectura del Sistema
+
+
+```
+                 USUARIO
+
+                    │
+
+                 VISTA
+
+                    │
+
+             CONTROLADOR
+
+                    │
+
+                 MODELO
+
+                    │
+
+             BASE DE DATOS
+```
+
+
+Implementación basada en:
+
+
+**MVC (Modelo - Vista - Controlador)**
+
+
+Permitiendo:
+
+
+- Código organizado
+- Separación de responsabilidades
+- Escalabilidad
+- Fácil mantenimiento
+
+
+
+---
+
+<!-- =========================================================
+     OTROS PROYECTOS
+========================================================== -->
+
+
+# 📂 Otros Proyectos
+
+
+| Proyecto | Tecnología | Descripción |
+|---|---|---|
+| 🐾 Sistema Veterinaria | Laravel | Plataforma empresarial veterinaria |
+| 💊 Farmacia DevOps | C# | Sistema administrativo |
+| 🏪 Mercado Privado | Laravel | Aplicación web comercial |
+| 🌸 Mamá Florita | JavaScript | Aplicación interactiva |
+
+
+
+---
+
+<!-- =========================================================
+     GITHUB STATS
+========================================================== -->
+
+
+# 📈 GitHub Analytics
+
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=clos12x&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<br>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clos12x&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+
+---
+
+<!-- =========================================================
+     ACTIVIDAD GITHUB
+========================================================== -->
+
+
+# 🐍 Contribution Activity
+
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+
+
+</div>
+
+
+
+---
+
+<!-- =========================================================
+     CONTACTO PROFESIONAL
+========================================================== -->
+
+
+# 📫 Contacto
+
+
+<div align="center">
+
+
+📍 Santa Cruz, Bolivia
+
+
+💼 LinkedIn
+
+https://www.linkedin.com/
+
+
+🐙 GitHub
+
+https://github.com/clos12x
+
+
+📧 Email
+
+joseluistagua22@gmail.com
+
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:2563EB&height=120&section=footer"/>
+
+
+### ⭐ Construyendo soluciones digitales con código, arquitectura y creatividad.
+
+
+</div>
