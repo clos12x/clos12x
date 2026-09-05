@@ -8,7 +8,7 @@
 <div align="center">
 
 
-<img src="./assets/portada-github.png" width="100%" />
+<img src="./portada-github.png" width="100%" />
 
 
 <br><br>
